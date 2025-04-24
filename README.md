@@ -1,0 +1,2 @@
+#Interpolacion Cuadratica
+#DIEGO FERNANDO SANTIZO SAMAYOA 0901-22-15950
